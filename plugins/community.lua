@@ -7,5 +7,10 @@ return {
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.ansible" },
+  { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.pack.helm" },
+  { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
 }
